@@ -1,5 +1,5 @@
 ![A passionate full-stack web developer(Laravel).](https://github.com/shoriful-Islamm/shoriful-islamm/blob/main/programer.gif)
-### Hi there 👋, Hi, I'm shoriful Islam 👋
+### Hi, I'm shoriful Islam 👋
 #### A passionate full-stack web developer(Laravel).
 <img align="right" alt="Coding" width="400" src="https://github.com/shoriful-Islamm/shoriful-islamm/blob/main/hello.gif">
 
