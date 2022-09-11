@@ -1,10 +1,20 @@
-### Hi there 👋, Hi, I'm shoriful Islam 
-#### A passionate full-stack web developer(Laravel).
 ![A passionate full-stack web developer(Laravel).](https://github.com/shoriful-Islamm/shoriful-islamm/blob/main/shoriful.jpg)
+### Hi there 👋, Hi, I'm shoriful Islam 👋
+#### A passionate full-stack web developer(Laravel).
+https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
 
 Strong in Professional Web Development with intuitive problem-solving skills. Proficient in HTML5, CSS3, JAVASCRIPT, jQuery, PSD to HTML, BOOTSTRAP5, PHP and LARAVEL framework. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.
 
-Skills: HTML5 / CSS3/ JS / JAVASCRIPT/ jQuery/BOOTSTRAP5/ PHP/MySQL/LARAVEL/
+Skills:
+✔HTML5
+✔CSS3 
+✔JAVASCRIPT 
+✔jQuery 
+✔BOOTSTRAP5 
+✔PSD to HTML
+✔PHP 
+✔MySQL 
+✔LARAVEL
 
 - 🔭 I’m currently working on Social Media Project 
 - 🌱 I’m currently learning MySQL PHP, Laravel 
@@ -17,6 +27,8 @@ Skills: HTML5 / CSS3/ JS / JAVASCRIPT/ jQuery/BOOTSTRAP5/ PHP/MySQL/LARAVEL/
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shoriful-Islamm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shoriful-islam-66b9211a7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shoriful.mee)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/__shoriful_islam_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ShoriFu46209592)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shoriful-Islamm)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoriful-Islamm)](https://github.com/anuraghazra/github-readme-stats)
 
