@@ -27,7 +27,7 @@ Strong in Professional Web Developer with intuitive problem-solving skills. Prof
 <a href="https://instagram.com/__shoriful_islam_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__shoriful_islam_" height="30" width="40" /></a>
 </p> 
 
-## 📊 My Github Stats
+<h3 align="left">📊 My Github Stats</h3
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shoriful-Islamm&show_icons=true)  
 
