@@ -1,7 +1,7 @@
 ![A passionate full-stack web developer(Laravel).](https://github.com/shoriful-Islamm/shoriful-islamm/blob/main/programer.gif)
 ### Hi, I'm shoriful Islam 👋
 #### A passionate full-stack web developer(Laravel) from Bangladesh.
-<img align="right" alt="Coding" width="400" src="https://github.com/shoriful-Islamm/shoriful-islamm/blob/main/hello.gif">
+<img align="right" alt="Coding" width="300" src="https://github.com/shoriful-Islamm/shoriful-islamm/blob/main/hello.gif">
 
 Strong in Professional Web Developer with intuitive problem-solving skills. Proficient in HTML5, CSS3, JAVASCRIPT, jQuery, PSD to HTML, BOOTSTRAP5, PHP and LARAVEL framework. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.
 
