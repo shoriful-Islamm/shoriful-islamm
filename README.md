@@ -34,7 +34,6 @@ Strong in Professional Web Developer with intuitive problem-solving skills. Prof
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoriful-Islamm)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shoriful-Islamm&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shoriful-Islamm)  
 
