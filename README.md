@@ -3,10 +3,10 @@
 #### A passionate full-stack web developer(Laravel) from Bangladesh.
 <img align="right" alt="Coding" width="400" src="https://github.com/shoriful-Islamm/shoriful-islamm/blob/main/hello.gif">
 
-## 🙋‍♂️About me
+<h3 align="left">About me</h3
 Strong in Professional Web Developer with intuitive problem-solving skills. Proficient in HTML5, CSS3, JAVASCRIPT, jQuery, PSD to HTML, BOOTSTRAP5, PHP and LARAVEL framework. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.
 
-## Additional Information
+<h3 align="left">Additional Information</h3
 - 🔭 I’m currently working on Social Media Project 
 - 🌱 I’m currently learning MySQL PHP, Laravel 
 - 👯 I’m looking to collaborate on GitHub 
