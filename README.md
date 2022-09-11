@@ -35,7 +35,6 @@ Strong in Professional Web Developer with intuitive problem-solving skills. Prof
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shoriful-Islamm)  
 
-![GitHub metrics](https://metrics.lecoq.io/shoriful-Islamm)  
   
 ## ❤ Views and Followers
 ![Profile views](https://gpvc.arturio.dev/shoriful-Islamm)  
