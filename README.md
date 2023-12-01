@@ -27,6 +27,6 @@ Highly motivated and detail-oriented PHP Laravel developer with more then 1-year
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoriful-islamm&" alt="shoriful-islamm" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shoriful-Islamm&show_icons=true)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoriful-Islamm)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shoriful-Islamm&show_icons=true) &nbsp&nbsp [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoriful-Islamm)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Shoriful's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shoriful-Islamm)](https://github.com/shoriful-Islamm/github-readme-activity-graph)
