@@ -33,7 +33,7 @@ Highly motivated and detail-oriented PHP Laravel developer with more then 1-year
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoriful-Islamm)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shoriful-Islamm)  
+[![Shoriful's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shoriful-Islamm)](https://github.com/shoriful-Islamm/github-readme-activity-graph)
 
   
 ## ❤ Views and Followers
