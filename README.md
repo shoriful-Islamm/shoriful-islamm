@@ -30,8 +30,3 @@ Highly motivated and detail-oriented PHP Laravel developer with more then 1-year
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shoriful-Islamm&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoriful-Islamm)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Shoriful's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shoriful-Islamm)](https://github.com/shoriful-Islamm/github-readme-activity-graph)
-
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
