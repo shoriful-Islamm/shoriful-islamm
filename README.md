@@ -42,7 +42,12 @@ new challenges and opportunitie s that push me to grow as a developer and leader
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-<a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/></a>
+<a href="https://jquery.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="40" height="40"/></a>
+<a href="https://restfulapi.net/" target="_blank"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/rest-api.svg" alt="REST API" width="40" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="OOP" width="40" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Data Structure" width="40" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/Algorithm" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Algorithm-example.png" alt="Algorithm" width="40" height="40"/></a>
 </p>
 
 ---
