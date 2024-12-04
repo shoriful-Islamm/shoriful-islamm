@@ -22,6 +22,22 @@ new challenges and opportunitie s that push me to grow as a developer and leader
 
 ---
 
+### 💼 Professional Experience  
+
+#### **Software Engineer**  
+**IT Sheba Limited**, Dhaka, Bangladesh  
+**September 2022 – Present**  
+
+- Collaborating with business stakeholders to capture requirements and deliver as per the specifications.  
+- Worked on full-stack development using Laravel framework, JavaScript, Blade templates, and other technologies.  
+- Collaborated with senior developers to design and develop robust and scalable web applications using the Laravel framework.  
+- Improved database performance by optimizing SQL queries and schema design.  
+- Participated in daily stand-up meetings, contributing insights and ideas to enhance project efficiency and functionality.  
+- Implemented software enhancements and updates based on client feedback and changing market demands.  
+- Conducted code reviews and provided constructive feedback to team members, ensuring code quality and adherence to best practices.  
+
+---
+
 ### 🌐 Connect With Me  
 <p align="left">
 <a href="https://twitter.com/shorifu46209592" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40"/></a>
