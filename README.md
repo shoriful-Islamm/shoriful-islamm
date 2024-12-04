@@ -14,11 +14,7 @@ Highly motivated and detail-oriented PHP Laravel developer with more then 1-year
 - 📫 How to reach me: shoriful.swe@gmail.com
 
 <h3 align="left">Connect with me:</h3><p align="left">
-<a href="https://twitter.com/shorifu46209592" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shorifu46209592" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shoriful-islam-66b9211a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shoriful-islam-66b9211a7" height="30" width="40" /></a>
-<a href="https://fb.com/shoriful.mee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shoriful.mee" height="30" width="40" /></a>
-<a href="https://instagram.com/__shoriful_islam_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__shoriful_islam_" height="30" width="40" /></a>
-</p> 
+<p align="left"> <a href="https://twitter.com/shorifu46209592" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40"/></a> <a href="https://linkedin.com/in/shoriful-islam-66b9211a7" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/></a> <a href="https://fb.com/shoriful.mee" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40"/></a> <a href="https://instagram.com/__shoriful_islam_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/></a> </p>
 
 <h3 align="left">Skills:</h3>
 <p align="left">
