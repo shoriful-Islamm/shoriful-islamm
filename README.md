@@ -44,15 +44,6 @@ new challenges and opportunitie s that push me to grow as a developer and leader
 - Implemented software enhancements and updates based on client feedback and changing market demands.  
 - Conducted code reviews and provided constructive feedback to team members, ensuring code quality and adherence to best practices.  
 
----
-
-### 🌐 Connect With Me  
-<p align="left">
-<a href="https://twitter.com/shorifu46209592" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40"/></a>
-<a href="https://linkedin.com/in/shoriful-islam-66b9211a7" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/></a>
-<a href="https://fb.com/shoriful.mee" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40"/></a>
-<a href="https://instagram.com/__shoriful_islam_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/></a>
-</p>  
 
 ---
 
