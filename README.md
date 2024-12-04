@@ -3,7 +3,6 @@
 # Hi, I'm Shoriful Islam 👋  
 ## 🚀 A Passionate Full-Stack PHP Laravel Developer  
 
-<img align="right" alt="Coding" width="400" src="https://github.com/shoriful-Islamm/shoriful-islamm/blob/main/hello.gif">
 
 ### About Me  
 I'm a highly motivated and detail-oriented PHP Laravel developer with over **1 year of professional experience** creating and implementing web applications. I'm skilled at collaborating with clients and cross-functional teams to achieve project success, writing clean, efficient, and maintainable code. Currently, I'm excited about new challenges that push my technical expertise further in Laravel and full-stack development.
