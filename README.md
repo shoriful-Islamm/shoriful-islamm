@@ -28,6 +28,19 @@ new challenges and opportunitie s that push me to grow as a developer and leader
 <a href="https://instagram.com/__shoriful_islam_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/></a>
 </p>
 
+<p align="left">
+  📫 <strong>Get in touch:</strong> 
+  <a href="mailto:shoriful.swe@gmail.com" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email" width="40" height="40"/>
+  </a>
+</p>
+<p align="left">
+  🌐 <strong>Check out my portfolio:</strong> 
+  <a href="https://shoriful-islamm.github.io/me/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="Portfolio" width="40" height="40"/>
+  </a>
+</p>
+
 ---
 
 ### 💼 Professional Experience  
