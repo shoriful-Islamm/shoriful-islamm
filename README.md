@@ -38,16 +38,6 @@ new challenges and opportunitie s that push me to grow as a developer and leader
 
 ---
 
-## 🎓 **Education**  
-- **Bachelor of Science in Computer Science & Engineering**  
-  Daffodil International University (2016 - 2020) | GPA: 3.41/4  
-- **Higher Secondary School Certificate (Science)**  
-  College of Finance & Management (2014 - 2016) | GPA: 4.00/5  
-- **Secondary School Certificate (Science)**  
-  Baghutia Omar Ali High School (2009 - 2014) | GPA: 4.19/5  
-
----
-
 ### 🌐 Connect With Me  
 <p align="left">
 <a href="https://twitter.com/shorifu46209592" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40"/></a>
