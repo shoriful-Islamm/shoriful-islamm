@@ -5,7 +5,11 @@
 
 
 ### About Me  
-I'm a highly motivated and detail-oriented PHP Laravel developer with over **1 year of professional experience** creating and implementing web applications. I'm skilled at collaborating with clients and cross-functional teams to achieve project success, writing clean, efficient, and maintainable code. Currently, I'm excited about new challenges that push my technical expertise further in Laravel and full-stack development.
+I am a dedicated full stack web developer with more than 2 years of hands on experience in software development. My expertise spans across server side and client side
+technologies, with a strong foundation in object oriented programming, data structures,a nd algorithms. I am proficient in Laravel framework, PHP, SQL, MySQL, JavaScript(ES6+),React , jQuery, Bootstrap, CSS3, HTML5, API integration, Git & GitHub. I thrive in Agile environments, where I have not only developed complex appl ications but also worked teams of 2 to 3 members to successful project completions.
+
+Programming is not just my career it's my passion. I have a deep love for solving complex problems and continuously learning new technologies. I am always excited by
+new challenges and opportunitie s that push me to grow as a developer and leader.
 
 ---
 
