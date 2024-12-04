@@ -10,6 +10,7 @@ technologies, with a strong foundation in object oriented programming, data stru
 
 Programming is not just my career it's my passion. I have a deep love for solving complex problems and continuously learning new technologies. I am always excited by
 new challenges and opportunitie s that push me to grow as a developer and leader.
+
 ---
 <img align="right" alt="Coding" width="400" src="https://github.com/shoriful-Islamm/shoriful-islamm/blob/main/hello.gif">
 
