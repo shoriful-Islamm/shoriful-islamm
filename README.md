@@ -15,7 +15,7 @@ new challenges and opportunitie s that push me to grow as a developer and leader
 
 ### 🔍 **What I'm Currently Up To**  
 - 🔭 **Working as a Software Engineer** at IT Sheba Limited, specializing in full-stack development with Laravel.  
-- 🌱 **Expanding my skills in:** React.js, advanced Laravel techniques, database optimization with MySQL, and modern JavaScript framework.  
+- 🌱 **Expanding my skills in:** React.js, advanced Laravel techniques, database optimization with MySQL, and modern JavaScript frameworks.  
 - 🤝 **Excited to collaborate on:** Open-source projects, innovative Laravel applications, and cutting-edge web development projects.  
 - 💬 **Feel free to ask me about:** PHP, Laravel, JavaScript (ES6+), MySQL, and building responsive web interfaces with Bootstrap.  
 - 📫 **Get in touch:** [shoriful.swe@gmail.com](mailto:shoriful.swe@gmail.com)
