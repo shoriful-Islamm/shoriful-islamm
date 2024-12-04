@@ -49,7 +49,6 @@ new challenges and opportunitie s that push me to grow as a developer and leader
 
 ### 💻 Technical Skills  
 <p align="left">
-  <img src="<?=Image::url('/uploads/photo.jpg', 300, 300, ['crop', 'grayscale']))?>" />
 <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"alt="Laravel" width="40" height="40"/></a> 
 <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
