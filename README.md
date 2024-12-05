@@ -69,8 +69,6 @@ new challenges and opportunitie s that push me to grow as a developer and leader
 
 ### 📊 GitHub Stats  
 <p align="center">
-  ![Shoriful's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shoriful-islamm&theme=radical)
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoriful-islamm&theme=radical" alt="Shoriful's GitHub Streak" />
 <img src="https://github-readme-stats.vercel.app/api?username=shoriful-islamm&show_icons=true&theme=radical" alt="Shoriful's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoriful-islamm&layout=compact&theme=radical" alt="Top Languages" />
